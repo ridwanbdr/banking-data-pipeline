@@ -1,0 +1,51 @@
+id|kota|provinsi
+LOC-001|Kota Pematangsiantar|DI Yogyakarta
+LOC-002|Kota Manado|Papua
+LOC-003|Kota Bau-Bau|Maluku
+LOC-004|Kota Pematangsiantar|Riau
+LOC-005|Kota Meulaboh|DI Yogyakarta
+LOC-006|Kota Sawahlunto|Banten
+LOC-007|Kota Banda Aceh|DI Yogyakarta
+LOC-008|Kota Kota Administrasi Jakarta Timur|Papua
+LOC-009|Kota Lhokseumawe|Aceh
+LOC-010|Kota Langsa|Maluku
+LOC-011|Kota Surakarta|Riau
+LOC-012|Kota Banda Aceh|Riau
+LOC-013|Kota Lhokseumawe|Bengkulu
+LOC-014|Kota Sawahlunto|Riau
+LOC-015|Kota Sorong|DI Yogyakarta
+LOC-016|Kota Kota Administrasi Jakarta Barat|Maluku
+LOC-017|Kota Manado|Banten
+LOC-018|Kota Sabang|Aceh
+LOC-019|Kota Manado|Bengkulu
+LOC-020|Kota Lhokseumawe|Banten
+LOC-021|Kota Solok|Aceh
+LOC-022|Kota Langsa|Riau
+LOC-023|Kota Tomohon|Bengkulu
+LOC-024|Kota Pagaralam|Bengkulu
+LOC-025|Kota Kota Administrasi Jakarta Timur|Maluku
+LOC-026|Kota Bandar Lampung|Lampung
+LOC-027|Kota Batu|Maluku
+LOC-028|Kota Meulaboh|Riau
+LOC-029|Kota Bandar Lampung|Riau
+LOC-030|Kota Manado|DI Yogyakarta
+LOC-031|Kota Lhokseumawe|Maluku
+LOC-032|Kota Bitung|Maluku
+LOC-033|Kota Malang|Maluku
+LOC-034|Kota Manado|Maluku
+LOC-035|Kota Sabang|Maluku
+LOC-036|Kota Kota Administrasi Jakarta Timur|Papua
+LOC-037|Kota Padang|Papua
+LOC-038|Kota Kota Administrasi Jakarta Timur|Papua
+LOC-039|Kota Meulaboh|Bengkulu
+LOC-040|Kota Meulaboh|Riau
+LOC-041|Kota Kota Administrasi Jakarta Barat|DI Yogyakarta
+LOC-042|Kota Pagaralam|Aceh
+LOC-043|Kota Tangerang Selatan|Nusa Tenggara Barat
+LOC-044|Kota Tomohon|Nusa Tenggara Barat
+LOC-045|Kota Probolinggo|Lampung
+LOC-046|Kota Semarang|Banten
+LOC-047|Kota Tomohon|Papua
+LOC-048|Kota Sawahlunto|Maluku
+LOC-049|Kota Malang|Papua
+LOC-050|Kota Bontang|Papua

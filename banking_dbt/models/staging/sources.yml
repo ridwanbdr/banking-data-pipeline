@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: banking_bronze
+    database: BANKING_DB
+    schema: PUBLIC
+    tables:
+      - name: bronze_transactions
+      - name: bronze_accounts
+      - name: bronze_customers
+      - name: bronze_locations
+      - name: bronze_banks
+      - name: bronze_exchange_rates

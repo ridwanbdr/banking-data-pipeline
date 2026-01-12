@@ -1,0 +1,16 @@
+id,nama_depan,nama_belakang,email,segmen,location_id,bank_id
+CUST-0001,Setya,Rahmawati,setya.rahmawati@example.com,Priority,LOC-006,BANK-008
+CUST-0002,Jaeman,Tampubolon,jaeman.tampubolon@example.com,Priority,LOC-032,BANK-004
+CUST-0003,Adiarja,Nainggolan,adiarja.nainggolan@example.com,Gold,LOC-023,BANK-001
+CUST-0004,Yance,Rahimah,yance.rahimah@example.com,Priority,LOC-024,BANK-006
+CUST-0005,Bella,Rahmawati,bella.rahmawati@example.com,Gold,LOC-041,BANK-002
+CUST-0006,Xanana,Anggraini,xanana.anggraini@example.com,Silver,LOC-002,BANK-004
+CUST-0007,Ilsa,Rahimah,ilsa.rahimah@example.com,Standard,LOC-021,BANK-010
+CUST-0008,Mahesa,Gunawan,mahesa.gunawan@example.com,Platinum,LOC-026,BANK-006
+CUST-0009,Asirwada,Wibisono,asirwada.wibisono@example.com,Standard,LOC-012,BANK-009
+CUST-0010,Edi,Susanti,edi.susanti@example.com,Silver,LOC-017,BANK-008
+CUST-0011,Anastasia,Fujiati,anastasia.fujiati@example.com,Platinum,LOC-032,BANK-008
+CUST-0012,Gamblang,Saragih,gamblang.saragih@example.com,Platinum,LOC-049,BANK-008
+CUST-0013,Jessica,Marpaung,jessica.marpaung@example.com,Gold,LOC-009,BANK-003
+CUST-0014,Elisa,Prabowo,elisa.prabowo@example.com,Standard,LOC-049,BANK-001
+CUST-0015,Adhiarja,Tarihoran,adhiarja.tarihoran@example.com,Priority,LOC-042,BANK-002

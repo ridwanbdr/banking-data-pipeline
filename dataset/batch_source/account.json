@@ -1,0 +1,92 @@
+[
+    {
+        "id": "ACC-00001",
+        "customer_id": "CUST-0001",
+        "tipe_akun": "Deposit",
+        "saldo": 28730661.17
+    },
+    {
+        "id": "ACC-00002",
+        "customer_id": "CUST-0002",
+        "tipe_akun": "Savings",
+        "saldo": 3443845.47
+    },
+    {
+        "id": "ACC-00003",
+        "customer_id": "CUST-0003",
+        "tipe_akun": "Deposit",
+        "saldo": 38372354.06
+    },
+    {
+        "id": "ACC-00004",
+        "customer_id": "CUST-0004",
+        "tipe_akun": "Deposit",
+        "saldo": 40216478.69
+    },
+    {
+        "id": "ACC-00005",
+        "customer_id": "CUST-0005",
+        "tipe_akun": "Loan",
+        "saldo": 4729467.28
+    },
+    {
+        "id": "ACC-00006",
+        "customer_id": "CUST-0006",
+        "tipe_akun": "Checking",
+        "saldo": 1908316.12
+    },
+    {
+        "id": "ACC-00007",
+        "customer_id": "CUST-0007",
+        "tipe_akun": "Deposit",
+        "saldo": 27699479.49
+    },
+    {
+        "id": "ACC-00008",
+        "customer_id": "CUST-0008",
+        "tipe_akun": "Savings",
+        "saldo": 8925749.67
+    },
+    {
+        "id": "ACC-00009",
+        "customer_id": "CUST-0009",
+        "tipe_akun": "Checking",
+        "saldo": 27032660.49
+    },
+    {
+        "id": "ACC-00010",
+        "customer_id": "CUST-0010",
+        "tipe_akun": "Checking",
+        "saldo": 1324353.24
+    },
+    {
+        "id": "ACC-00011",
+        "customer_id": "CUST-0011",
+        "tipe_akun": "Checking",
+        "saldo": 13284785.43
+    },
+    {
+        "id": "ACC-00012",
+        "customer_id": "CUST-0012",
+        "tipe_akun": "Checking",
+        "saldo": 35503433.28
+    },
+    {
+        "id": "ACC-00013",
+        "customer_id": "CUST-0013",
+        "tipe_akun": "Loan",
+        "saldo": 11505620.94
+    },
+    {
+        "id": "ACC-00014",
+        "customer_id": "CUST-0014",
+        "tipe_akun": "Deposit",
+        "saldo": 39388503.35
+    },
+    {
+        "id": "ACC-00015",
+        "customer_id": "CUST-0015",
+        "tipe_akun": "Deposit",
+        "saldo": 3316458.87
+    }
+]

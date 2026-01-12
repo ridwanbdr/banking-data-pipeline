@@ -1,0 +1,202 @@
+[
+    {
+        "id": "TRX-000021",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00006",
+        "jumlah_transaksi": 816997.68,
+        "tipe_transaksi": "Transfer",
+        "akun_tujuan": "ACC-00004",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000022",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00010",
+        "jumlah_transaksi": 794514.61,
+        "tipe_transaksi": "Transfer",
+        "akun_tujuan": "ACC-00005",
+        "status": "Pending"
+    },
+    {
+        "id": "TRX-000023",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00009",
+        "jumlah_transaksi": 1370038.82,
+        "tipe_transaksi": "Payment",
+        "akun_tujuan": "ACC-00003",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000024",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00005",
+        "jumlah_transaksi": 1368275.65,
+        "tipe_transaksi": "Deposit",
+        "akun_tujuan": "ACC-00004",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000025",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00001",
+        "jumlah_transaksi": 1789980.97,
+        "tipe_transaksi": "Withdrawal",
+        "akun_tujuan": "ACC-00006",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000026",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00004",
+        "jumlah_transaksi": 427974.59,
+        "tipe_transaksi": "Deposit",
+        "akun_tujuan": "ACC-00009",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000027",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00008",
+        "jumlah_transaksi": 59031.58,
+        "tipe_transaksi": "Withdrawal",
+        "akun_tujuan": "ACC-00005",
+        "status": "Pending"
+    },
+    {
+        "id": "TRX-000028",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00002",
+        "jumlah_transaksi": 1776498.38,
+        "tipe_transaksi": "Payment",
+        "akun_tujuan": "ACC-00003",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000029",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00009",
+        "jumlah_transaksi": 1107392.17,
+        "tipe_transaksi": "Deposit",
+        "akun_tujuan": "ACC-00008",
+        "status": "Pending"
+    },
+    {
+        "id": "TRX-000030",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00003",
+        "jumlah_transaksi": 1598748.16,
+        "tipe_transaksi": "Deposit",
+        "akun_tujuan": "ACC-00006",
+        "status": "Pending"
+    },
+    {
+        "id": "TRX-000031",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00008",
+        "jumlah_transaksi": 1141254.66,
+        "tipe_transaksi": "Transfer",
+        "akun_tujuan": "ACC-00009",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000032",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00003",
+        "jumlah_transaksi": 1252188.87,
+        "tipe_transaksi": "Payment",
+        "akun_tujuan": "ACC-00001",
+        "status": "Success"
+    },
+    {
+        "id": "TRX-000033",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00005",
+        "jumlah_transaksi": 1006278.49,
+        "tipe_transaksi": "Payment",
+        "akun_tujuan": "ACC-00008",
+        "status": "Pending"
+    },
+    {
+        "id": "TRX-000034",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00010",
+        "jumlah_transaksi": 187096.24,
+        "tipe_transaksi": "Transfer",
+        "akun_tujuan": "ACC-00002",
+        "status": "Success"
+    },
+    {
+        "id": "TRX-000035",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00005",
+        "jumlah_transaksi": 233954.35,
+        "tipe_transaksi": "Transfer",
+        "akun_tujuan": "ACC-00001",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000036",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00003",
+        "jumlah_transaksi": 1326686.14,
+        "tipe_transaksi": "Deposit",
+        "akun_tujuan": "ACC-00001",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000037",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00008",
+        "jumlah_transaksi": 1951150.09,
+        "tipe_transaksi": "Transfer",
+        "akun_tujuan": "ACC-00002",
+        "status": "Pending"
+    },
+    {
+        "id": "TRX-000038",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00002",
+        "jumlah_transaksi": 1405416.3,
+        "tipe_transaksi": "Transfer",
+        "akun_tujuan": "ACC-00008",
+        "status": "Failed"
+    },
+    {
+        "id": "TRX-000039",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00005",
+        "jumlah_transaksi": 980364.18,
+        "tipe_transaksi": "Transfer",
+        "akun_tujuan": "ACC-00006",
+        "status": "Pending"
+    },
+    {
+        "id": "TRX-000040",
+        "date": "2025-12-24",
+        "timestamp": "18:00:01",
+        "account_id": "ACC-00007",
+        "jumlah_transaksi": 1325734.9,
+        "tipe_transaksi": "Withdrawal",
+        "akun_tujuan": "ACC-00002",
+        "status": "Pending"
+    }
+]

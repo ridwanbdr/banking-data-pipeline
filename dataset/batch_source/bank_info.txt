@@ -1,0 +1,11 @@
+bank_id|nama_bank|singkatan|kantor_pusat|jenis_bank
+BANK-001|Bank Rakyat Indonesia|BRI|Jakarta|BUMN
+BANK-002|Bank Mandiri|Mandiri|Jakarta|BUMN
+BANK-003|Bank Central Asia|BCA|Jakarta|Swasta
+BANK-004|Bank Negara Indonesia|BNI|Jakarta|BUMN
+BANK-005|Bank CIMB Niaga|CIMB|Jakarta|Swasta
+BANK-006|Bank Danamon|Danamon|Jakarta|Swasta
+BANK-007|Bank Permata|Permata|Jakarta|Swasta
+BANK-008|Bank Panin|Panin|Jakarta|Swasta
+BANK-009|Bank Tabungan Negara|BTN|Jakarta|BUMN
+BANK-010|Bank Mega|Mega|Jakarta|Swasta

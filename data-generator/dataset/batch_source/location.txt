@@ -1,0 +1,41 @@
+id|kota|provinsi
+LOC-001|Kota Sawahlunto|Sumatera Barat
+LOC-002|Kota Jayapura|Papua
+LOC-003|Kota Subulussalam|Aceh
+LOC-004|Kota Serang|Banten
+LOC-005|Kota Parepare|Sulawesi Selatan
+LOC-006|Kota Pekalongan|Jawa Tengah
+LOC-007|Kota Manado|Sulawesi Utara
+LOC-008|Kota Baubau|Sulawesi Tenggara
+LOC-009|Kota Sawahlunto|Sumatera Barat
+LOC-010|Kota Sabang|Aceh
+LOC-011|Kota Ternate|Maluku Utara
+LOC-012|Kota Banda Aceh|Aceh
+LOC-013|Kota Solok|Sumatera Barat
+LOC-014|Kota Manado|Sulawesi Utara
+LOC-015|Kota Tidore Kepulauan|Maluku Utara
+LOC-016|Kota Payakumbuh|Sumatera Barat
+LOC-017|Kota Mataram|Nusa Tenggara Barat
+LOC-018|Kota Metro|Lampung
+LOC-019|Kota Palu|Sulawesi Tengah
+LOC-020|Kota Gorontalo|Gorontalo
+LOC-021|Kota Denpasar|Bali
+LOC-022|Kota Balikpapan|Kalimantan Timur
+LOC-023|Kota Banjarmasin|Kalimantan Selatan
+LOC-024|Kota Pontianak|Kalimantan Barat
+LOC-025|Kota Samarinda|Kalimantan Timur
+LOC-026|Kota Tarakan|Kalimantan Utara
+LOC-027|Kota Batam|Kepulauan Riau
+LOC-028|Kota Tanjungpinang|Kepulauan Riau
+LOC-029|Kota Medan|Sumatera Utara
+LOC-030|Kota Pematangsiantar|Sumatera Utara
+LOC-031|Kota Padang|Sumatera Barat
+LOC-032|Kota Bukittinggi|Sumatera Barat
+LOC-033|Kota Jambi|Jambi
+LOC-034|Kota Palembang|Sumatera Selatan
+LOC-035|Kota Bengkulu|Bengkulu
+LOC-036|Kota Bandar Lampung|Lampung
+LOC-037|Kota Cilegon|Banten
+LOC-038|Kota Depok|Jawa Barat
+LOC-039|Kota Bogor|Jawa Barat
+LOC-040|Kota Bandung|Jawa Barat
